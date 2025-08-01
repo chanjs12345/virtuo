@@ -12,9 +12,9 @@ $stylePath = "styles/{$page}.css";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo ucfirst($page)?></title>
     <?php 
-    echo "<link rel='stylesheet' href='styles/header.css'>";
-    echo "<link rel='stylesheet' href='styles/head.css'>";
-    echo "<link rel='stylesheet' href='styles/footer.css'>";
+    echo "<link rel='stylesheet'  href='styles/header.css'></link>" ;
+    echo "<link rel='stylesheet'  href='$stylePath'></link>" ;
+    echo "<link rel='stylesheet'  href='styles/footer.css'></link>" ;
     ?>
 </head>
 <body>

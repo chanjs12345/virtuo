@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.headerStyle {
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+}
+
+.headerStyle a {
+    color: white;
+}
+
+.headerStyle a:hover {
+    color: cyan;
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+}
+
+
