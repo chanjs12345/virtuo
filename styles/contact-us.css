@@ -1,0 +1,91 @@
+
+.first-div {
+    background-color: #001f3f;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 240px;
+    padding-bottom: 240px;
+}
+
+.first-div h1{
+    color: white;
+    font-size: 1.9rem;    
+    margin-bottom: 1rem;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+.contact-table-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding-bottom: 40px;
+}
+
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-table th {
+  background-color: #001f3f;
+  color: white;
+  text-align: left;
+  padding: 12px;
+  border: 1px solid black;
+  font-size: 1rem;
+}
+
+.contact-table td {
+  padding: 12px;
+  border: 1px solid black;
+  font-size: 0.95rem;
+  background-color: #f9f9f9;
+}
+
+.form-div{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 100px 100px 130px;
+    justify-content: center;
+    align-items: left;
+    background-color:   #001f3f;
+}
+
+.form-div label{
+    font-size: 28px;
+    color: white;
+}
+
+.form-div input{
+    width: 500px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}
+
+.form-div textarea {
+    width: 500px;
+    height: 100px;
+    color: white;
+    border-radius: 10px;
+}
+
+.form-div button{
+    width: 150px;
+    height:50px;
+    background-color:   white;
+    color: #001f3f;
+    border-style: none;
+    border-radius: 10px;
+    transition: 0.3ms;  
+}
+
+.form-div button:hover{
+    background-color: lightblue;
+}
