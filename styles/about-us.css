@@ -1,47 +1,111 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-
 .first-div {
-    background-color: #001f3f;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    padding-top: 200px;
-    padding-bottom: 200px;
+  background-color: #001f3f;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
-.first-div h2{
-    color: white;   
-    font-size: 3rem;
+.first-div h2 {
+  color: white;
+  font-size: 3rem;
 }
 
-.first-div p{
-    font-size: 1.4rem;
-    line-height: 1.6;
-    color: white;
-    padding: 20px 60px 60px 60px;
+.first-div p {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  color: white;
+  padding: 20px 60px 60px 60px;
 }
 
-.second-div{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
-  padding: 40px;
+
+.second-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 40px;
+  background-color: #f9f9f9;
+  text-align: center;
 }
 
-.second-div h3{
-    font-size: 28px;
-    padding-bottom: 20px;
+.second-div h3 {
+  font-size: 2rem;
+  padding-bottom: 20px;
+  color: #001f3f;
 }
 
-.second-div p{
-    font-size: 16px;
-    padding-left: 40px;
-    padding-right: 40px;
+.second-div p {
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 800px;
+  margin-bottom: 20px;
 }
 
+
+.third-div {
+  padding: 60px 40px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.third-div h3 {
+  font-size: 2rem;
+  padding-bottom: 20px;
+  color: #001f3f;
+}
+
+.third-div ul {
+  list-style-type: disc;
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+
+.third-div li {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.fourth-div {
+  padding: 60px 40px;
+  background-color: #001f3f;
+  text-align: center;
+}
+
+.fourth-div h3 {
+  font-size: 2rem;
+  padding-bottom: 20px;
+  color: white;
+}
+
+.fourth-div ul {
+  list-style-type: none;
+  padding-left: 0;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.fourth-div li {
+  font-size: 1rem;
+  margin-bottom: 12px;
+  padding-left: 24px;
+  position: relative;
+   color: white;
+}
+
+
+
+.cta {
+  background-color: #e8f5e9;
+  padding: 40px 20px;
+  text-align: center;
+  font-weight: bold;
+  color: #1a7f37;
+  font-size: 1.1rem;
+}
