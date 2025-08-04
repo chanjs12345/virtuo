@@ -27,11 +27,11 @@
     Our Services
     </h3>
 
-    <p>Autogate</p>
-    <p>Auto Door</p>
-    <p>Turnstile System</p>
-    <p>Perimeter Intrusion Detection System</p>
-    <p>Software Integration</p>
+    <a href="/virtuo-web/autogate">Autogate</a>
+    <a href="/virtuo-web/autodoor">Auto Door</a>
+    <a href="/virtuo-web/turnstilesystem">Turnstile System</a>
+    <a href="/virtuo-web/pid">Perimeter Intrusion Detection System</a>
+    <a href="/virtuo-web/softwareIntegration">Software Integration</a>
     </div>
 
     <form action="get" class="form-div">

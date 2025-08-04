@@ -36,7 +36,9 @@
     font-weight: 700;
 }
 
-
+.first-div button:hover{
+    background-color: lightblue; 
+}
 
 .second-div {
     display:flex;
@@ -74,11 +76,12 @@
     padding-bottom: 16px;
 }
 
-.third-div p{
+.third-div a {
     color: white;
     font-size: 16px;
     padding-left: 20px;
     padding-bottom: 16px;
+    text-decoration: none;
 }
 
 
@@ -120,7 +123,7 @@
 }
 
 
-/* Make form and content responsive on small screens */
+
 @media (max-width: 768px) {
   .first-div {
     padding-top: 100px;

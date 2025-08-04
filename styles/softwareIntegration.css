@@ -1,0 +1,146 @@
+
+.title{
+    background-color: #f9f9f9;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+
+.product123-container-div{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.product1-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.product1-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product1-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+
+.product2-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.product2-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product2-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+.product3-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.product3-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product3-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+.product456-container-div{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.product4-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.product4-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product4-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+
+.product5-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.product5-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product5-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+.product6-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.product6-div img{
+    max-width: 600px;
+    max-height: 300px;
+}
+
+.product6-div a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+}

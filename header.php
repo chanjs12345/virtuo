@@ -5,7 +5,7 @@
       </a></h1>
       <nav>
           <a href="/virtuo-web/about-us">About Us</a>
-          <a href="/virtuo-web/contact-us">contact Us</a>
+          <a href="/virtuo-web/contact-us">Contact Us</a>
       </nav>
     </div>
 </header>
