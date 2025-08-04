@@ -22,7 +22,7 @@
 
     </div>
 
-    <div class="third-div">
+    <div id="home-services" class="third-div">
     <h3>
     Our Services
     </h3>

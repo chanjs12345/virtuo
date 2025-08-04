@@ -6,6 +6,7 @@
       <nav>
           <a href="/virtuo-web/about-us">About Us</a>
           <a href="/virtuo-web/contact-us">Contact Us</a>
+          <a href="/virtuo-web/#home-services">Services</a>
       </nav>
     </div>
 </header>
