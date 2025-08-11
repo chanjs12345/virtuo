@@ -9,6 +9,7 @@
     </p>
 
     <button type="submit"><b>Get in Touch   </b></button>
+    <button type="submit"><b>Get in Touch   </b></button>
     </div>
 
     <div class="second-div">
