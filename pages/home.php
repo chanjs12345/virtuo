@@ -10,7 +10,6 @@
 
     <button type="submit"><b>Get in Touch   </b></button>
     <button type="submit"><b>Get in Touch   </b></button>
-    <button type="submit"><b>hello   </b></button>
     </div>
 
     <div class="second-div">
